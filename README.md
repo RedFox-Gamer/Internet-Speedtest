@@ -8,4 +8,4 @@ Test your internet's speed using this Python script.
 **Note:**
  - If you already have *speedtest* installed, uninstall it, and please use *speedtest-cli* instead
  
- Tutorial available on my *Instagram* page: 
+ Tutorial available on my *Instagram* page: https://www.instagram.com/p/CIN6Q_tpY3b/
